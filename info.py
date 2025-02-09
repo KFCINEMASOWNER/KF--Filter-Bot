@@ -76,8 +76,8 @@ SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/KFCINEMAS')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Hansaka_Anuhas")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/KFCINEMAS')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/KFCINEMAS')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/KF_Links")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/KF_Links")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/KF_Links/129")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/KF_Links/129")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
