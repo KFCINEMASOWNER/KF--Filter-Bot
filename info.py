@@ -73,7 +73,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/KFCINEMAS')
-OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Hansaka_Anuhas")
+OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Kannadaraja_1")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/KFCINEMAS')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/KFCINEMAS')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/KF_Links/129")
